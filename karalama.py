@@ -1,27 +1,6 @@
 from datetime import *
 
-print("hiii")
-dffgdfgf
-dfgdfg
-dfgdg
-dfgdf
-gdfg
-dgdf
-gd
-gdfg
-dfg
-df
-
-fgjfjhgj
-ghjghj
-hgjgj
-ghjgh
-jhhg
-hjgj
-ghj
-
-
-
+print("qqqqqqqqqqqqqq")
 a= "2020-09-08T21:05:00"
 
 first_time = datetime.strptime(a, '%Y-%m-%dT%H:%M:%S')
