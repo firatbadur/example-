@@ -1,6 +1,5 @@
 import psycopg2
 
-print("wqwqqqwq")
 
 DB_NAME = "postgres"
 DB_USER = "postgres"
